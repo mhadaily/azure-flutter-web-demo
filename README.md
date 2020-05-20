@@ -4,7 +4,7 @@ Just a demo to show that Flutter web can be deployed as a PWA to AZURE STATIC WE
 
 ## Live Demo
 
-- Flutter For Web on Azure Static Web Apps: [Click here](#)
+- Flutter For Web on Azure Static Web Apps: [Click here](https://gentle-dune-0a345d303.azurestaticapps.net/#/)
 
 ## Demo
 

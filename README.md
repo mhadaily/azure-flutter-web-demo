@@ -12,6 +12,6 @@ Just a demo to show that Flutter web can be deployed as a PWA to AZURE STATIC WE
   <img src="build_3.png" width="100%">
 </p>
 <p>
-  <img src="build_1.png" width="80%">
-  <img src="build_1.png" width="20%">
+  <img src="build_1.png" width="75%">
+  <img src="build_2.png" width="23%">
 </p>
